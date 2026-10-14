@@ -1,0 +1,6 @@
+{
+  "name": "ARGON",
+  "description": "Platform edukasi personal brand, membership, ebook, podcast, dan konsultasi eksklusif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
